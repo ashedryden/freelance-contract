@@ -27,7 +27,7 @@ We have the experience and ability to perform the services you need from us and 
 What we need from you
 Below is a list of items we’ll need up front from you. Every project is slightly different, so there may be things we’ve missed from this list, but we will let you know as soon as we’re able if we’ve forgotten something we need.
 
-* [LIST OF NEEDS] (includes credentials, access to any necessary services or assets, etc)
+* [LIST OF NEEDS] *includes credentials, access to any necessary services or assets, etc*
 
 ####Browser Compatibility
 We have agreed to test our code in IE7+ as well as the latest releases of Firefox, Safari, and Chrome. Additionally we test on mobile Safari and mobile Chrome (iOS devices, Android devices). If you need browsers other than those listed tested, please provide us with a list of the browsers and devices. Testing additional browsers requires more testing time as well as potentially needing to code for that specific browser.
