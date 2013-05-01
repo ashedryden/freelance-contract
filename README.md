@@ -24,7 +24,8 @@ We have the experience and ability to perform the services you need from us and 
 
 ###Getting down to the nitty gritty
 
-What we need from you
+####What we need from you
+
 Below is a list of items we’ll need up front from you. Every project is slightly different, so there may be things we’ve missed from this list, but we will let you know as soon as we’re able if we’ve forgotten something we need.
 
 * [LIST OF NEEDS] *includes credentials, access to any necessary services or assets, etc*
